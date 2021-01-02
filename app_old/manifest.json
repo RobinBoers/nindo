@@ -1,0 +1,28 @@
+{
+  "short_name": "Nindo",
+  "name": "Nindo: Social Media Platform",
+  "icons": [
+    {
+      "src": "logo2.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  , {
+    "src": "logo3.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  },{
+    "src": "logo4.ico",
+    "sizes": "128x128",
+    "type": "image/x-icon"
+  },{
+    "src": "logo4.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }],
+  "start_url": "/app",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/app",
+  "theme_color": "#3367D6"
+}

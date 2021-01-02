@@ -1,0 +1,43 @@
+CACHE MANIFEST
+# 13 / 07 / 2019
+# Versie 2
+
+# Explicitly cached 'master entries'.
+CACHE:
+/logo2.png
+logo2.png
+logo3.png
+logo4.png
+logo4.ico
+
+index.php
+start.php
+friends.php
+inbox.php
+inloggen.php
+login.php
+user.php
+
+../../connection.php
+../connection.php
+
+messages/addcontact.php
+messages/contactform.php
+messages/inbox.php
+messages/message.php
+messages/messageform.php
+messages/notification.php
+messages/sendmsg.php
+messages/sent.php
+
+https://geheimesite.nl/onsenui/css/onsenui.css
+https://geheimesite.nl/onsenui/css/onsen-css-components.min.css
+https://geheimesite.nl/onsenui/js/onsenui.min.js
+
+# Resources that require the user to be online.
+NETWORK:
+*
+
+# offline?? Geen paniek... Er is nog een fallback
+FALLBACK:
+404.php
