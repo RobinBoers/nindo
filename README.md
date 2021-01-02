@@ -11,11 +11,11 @@ Nindo supports posts, likes, friends, images, private messages / DM's and chatro
 
 ## The story
 
-Just like my entire website back then, Nindo was meant to be used by secret agents. Me and my friends had this thing called the DDDD, which was a secret organisation to protect the universe from the bad guys called humans. At first it was called the "DGAW", which was an abbreviation for "De Geheim Agenten Webapp". Nindo was a part of it which was made for Ninjas, thats where the name came from. Later I just called the entire platform Nindo, because I liked the name. I sadly don't have backups of the UGLY first versions of the app.
+Just like my entire website back then, Nindo was meant to be used by secret agents. Me and my friends had this thing called the DDDD, which was a secret organisation to protect the universe from the bad guys called humans. At first Nindo was called the "DGAW", which was an abbreviation for "De Geheim Agenten Webapp". Nindo was a part of it which was made for Ninjas, thats where the name came from. Later I just called the entire platform Nindo, just because I liked the name. I sadly don't have any backups of the UGLY first versions of the platform.
 
 ## Self hosting Nindo
 
-True, Nindo is offline, but if you want, you can host it yourself. All you need is a webserver that has access to a database and a PHP backend. Do you want to know how? Follow the guide below. The entire source code and the platform itself is in Dutch tough...
+True, Nindo is offline, but if you want you can host it yourself. All you need is a webserver that has access to a database and a PHP backend. Do you want to know how? Follow the guide below. The entire source code and the platform itself is in Dutch tough...
 
 ### STEP 1: Get a server
 
