@@ -72,3 +72,6 @@ Make sure you use the correct values here. You should be able to get them from y
 ### STEP 5: Detect bugs
 
 If you find any bugs, be sure to create a issue on the issues tab :)
+
+Here's a screenshot of the homepage:
+![Screenshot](screenshot.png)
