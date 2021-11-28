@@ -21,12 +21,12 @@ True, Nindo is offline, but if you want you can host it yourself. All you need i
 
 You'll need a basic webserver with access to a database and PHP backend. You can get them very cheap at almost any webhost, but I have a very good experience with bHosted, the webhost that I used to host Nindo at, and I still host my main website at today.
 
-<a href="https://www.bhosted.nl?ref=97f4c4a4b13e269e12cfd4f0352ba527" alt="bHosted.nl webhosting"><img src="http://www.bhosted.nl/banners/banner-120-60.gif" border="0" alt="bHosted.nl webhosting"></a>
+[![bHosted.nl webhosting](http://www.bhosted.nl/banners/banner-120-60.gif)](https://www.bhosted.nl?ref=97f4c4a4b13e269e12cfd4f0352ba527)
 
 ### STEP 2: Setup database
 
 I use MySQL, and below you can see screenshots for the table layouts.
-Nindo uses 1 database with 5 tables: 
+Nindo uses 1 database with 5 tables:
 
 - userinfo:  
 This is where user information like name, username, password and profile picture is stored.
@@ -61,7 +61,7 @@ Download the Nindo source files, and put them on your server. Make sure the file
 
 Open the file connection.php, and change the following values:
 
-```
+```php
 $dbUserName = "root";   // user to use for login
 $dbPassword = "";       // password to use (leave empty for no password)
 $dbName = "users";      // database name
