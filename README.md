@@ -9,6 +9,8 @@ Small social media platform written in PHP.
 I made this because I could. I just wanted to know if I could pull it off. And I did it.  
 Nindo supports posts, likes, friends, images, private messages / DM's and chatrooms. I decided to shut it down on Janurary 1st 2021 due to inactivity.
 
+A newer rewrite in elixir will soon be available. Look out for [RobinBoers/nindo-elixir](https://github.com/RobinBoers/nindo-elixir)!
+
 ## The story
 
 Just like my entire website back then, Nindo was meant to be used by secret agents. Me and my friends had this thing called the DDDD, which was a secret organisation to protect the universe from the bad guys called humans. At first Nindo was called the "DGAW", which was an abbreviation for "De Geheim Agenten Webapp". Nindo was a part of it which was made for Ninjas, thats where the name came from. Later I just called the entire platform Nindo, just because I liked the name. I sadly don't have any backups of the UGLY first versions of the platform.
